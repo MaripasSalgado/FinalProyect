@@ -69,21 +69,21 @@
           <ul class="categories">
 
             <li class="categories__item">
-              <a class="categories__link" href="../shop.php">
+              <a class="categories__link" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Mens
 
               </a>
             </li>
 
             <li class="categories__item">
-              <a class="categories__link" href="../shop.php">
+              <a class="categories__link" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Womens
 
               </a>
             </li>
 
             <li class="categories__item">
-              <a class="categories__link categories__link--active" href="shop.php">
+              <a class="categories__link categories__link--active" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Shop
               </a>
             </li>

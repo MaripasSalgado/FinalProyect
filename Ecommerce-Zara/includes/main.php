@@ -59,7 +59,7 @@
       <div class="container clearfix">
 
         <div class="logo">
-          <a class="logo__link" href="index.php">
+          <a class="logo__link" href="/FinalProyect/Ecommerce-Zara/index.php">
             <img class="logo__img" src="images/logo.png" alt="Zara logotype" width="200" height="10">
           </a>
         </div>
@@ -68,22 +68,27 @@
           <ul class="categories">
 
             <li class="categories__item">
-              <a class="categories__link" href="shop.php">
+              <a class="categories__link" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Mens
 
               </a>
             </li>
 
             <li class="categories__item">
-              <a class="categories__link" href="shop.php">
+              <a class="categories__link" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Womens
 
               </a>
             </li>
 
             <li class="categories__item">
-              <a class="categories__link categories__link--active" href="shop.php">
+              <a class="categories__link categories__link--active" href="/FinalProyect/Ecommerce-Zara/shop.php">
                 Shop
+              </a>
+            </li>
+            <li class="categories__item">
+              <a class="categories__link" href="/FinalProyect/Ecommerce-Zara/about.php">
+                About us
               </a>
             </li>
 
@@ -98,13 +103,13 @@
                     <div class="dropdown__heading">Account Settings</div>
                     <ul class="dropdown__items">
                       <li class="dropdown__item">
-                        <a href="my_account.php?my_wishlist" class="dropdown__link">My Wishlist</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/customer/my_account.php?my_wishlist" class="dropdown__link">My Wishlist</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="my_account.php?my_orders" class="dropdown__link">My Orders</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/customer/my_account.php?my_orders" class="dropdown__link">My Orders</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="./cart.php" class="dropdown__link">View Shopping Cart</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/cart.php" class="dropdown__link">View Shopping Cart</a>
                       </li>
                     </ul>
                   </div>
@@ -112,13 +117,13 @@
                     <div class="dropdown__heading"></div>
                     <ul class="dropdown__items">
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Edit Your Account</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/customer/my_account.php?edit_account" class="dropdown__link">Edit Your Account</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Change Password</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/customer/my_account.php?change_pass" class="dropdown__link">Change Password</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Delete Account</a>
+                        <a href="/FinalProyect/Ecommerce-Zara/customer/my_account.php?delete_account" class="dropdown__link">Delete Account</a>
                       </li>
                     </ul>
                   </div>
